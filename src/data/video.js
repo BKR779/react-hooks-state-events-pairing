@@ -11,11 +11,15 @@ const video = {
       id: 1,
       user: "duanebot",
       comment: "first!",
+      like: 0,
+      dislike: 0,
     },
     {
       id: 2,
       user: "gaeron",
       comment: "What a great tutorial!",
+      like: 0,
+      dislike: 0,
     },
   ],
 };
